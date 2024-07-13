@@ -4,7 +4,7 @@ This repository holds all the lab files including materials and assignments that
 
 Starting with 
 
-<list>
+<ol>
 <item> QNickel</item>
 <item> Classiq</item>
-</list>
+</ol>
