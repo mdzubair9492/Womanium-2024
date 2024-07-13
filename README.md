@@ -6,4 +6,5 @@ Starting with
 
 <list>
 <item> QNickel</item>
+<item> Classiq</item>
 </list>
